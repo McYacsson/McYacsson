@@ -1,0 +1,5 @@
+Name: Yusuff Yaqub
+Email: yusuff.yaqub@yahoo.com
+Slack username: McYacsson
+Track: Backend
+Course: PHP,Python,GO,C#
